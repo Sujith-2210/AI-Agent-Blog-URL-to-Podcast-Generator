@@ -27,9 +27,9 @@ Install dependencies:
 pip install streamlit agno
 ```
 
-##🔑 API Keys Required
+## 🔑 API Keys Required
 
-###You need the following API keys:
+### You need the following API keys:
 
 - **Google Gemini API Key**
 
@@ -39,14 +39,14 @@ pip install streamlit agno
 
 These are entered in the Streamlit sidebar.
 
-###▶️ Running the App
+### ▶️ Running the App
 
 Clone this repository:
 ```bash
 git clone https://github.com/Sujith-2210/AI-Agent-Blog-URL-to-Podcast-Generator.git
 ```
 
-###Run the Streamlit app:
+### Run the Streamlit app:
 ```bash
 streamlit run podcast.py
 ```
@@ -61,7 +61,7 @@ Generated podcasts are stored in the audio_generations/ folder.
 
 Files are saved as .wav and can also be downloaded from the UI.
 
-###📝 Example Workflow
+### 📝 Example Workflow
 
 Enter API keys.
 
